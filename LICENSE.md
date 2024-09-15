@@ -1,6 +1,9 @@
-Copyright (c) 2024 Christian Deciga, <christian@talentforgood.xyz>
+Copyright (c) 2024 Christian Deciga, <christian@yeep.cash>
 
-                                 Apache License
+
+
+
+                                Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -188,7 +191,7 @@ Copyright (c) 2024 Christian Deciga, <christian@talentforgood.xyz>
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright 2024 Christian Deciga
+   Copyright 2024 Minxy Labs Inc.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
